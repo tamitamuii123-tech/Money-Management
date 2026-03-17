@@ -1,0 +1,1 @@
+{\n  "app_id": "money_management_app",\n  "platforms": [\n    "android"\n  ],\n  "android": {\n    "app_name": "Money Management",\n    "package_name": "com.example.moneymanagement",\n    "version": "1.0.0",\n    "build_number": "1",\n    "sdk": {\n      "version": "30"\n    }\n  }\n}
